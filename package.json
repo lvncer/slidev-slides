@@ -8,6 +8,7 @@
     "dev:20250630": "slidev --open slides/20250630.md",
     "dev:20250530": "slidev --open slides/20250530.md",
     "dev:20251104": "slidev --open slides/20251104.md",
+    "dev:20260126": "slidev --open slides/20260126.md",
     "build": "npm run build",
     "export": "slidev export"
   },
