@@ -1,21 +1,17 @@
 {
-  "name": "slidev",
+  "name": "slidev-slides",
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "slidev --open",
-    "dev:20250930": "slidev --open slides/20250930.md",
-    "dev:20250630": "slidev --open slides/20250630.md",
-    "dev:20250530": "slidev --open slides/20250530.md",
-    "dev:20251104": "slidev --open slides/20251104.md",
-    "dev:20260126": "slidev --open slides/20260126.md",
-    "build": "npm run build",
-    "export": "slidev export"
+    "dev:260126": "slidev --open slides/20260126.md",
+    "dev:251104": "slidev --open slides/20251104.md",
+    "dev:250930": "slidev --open slides/20250930.md",
+    "dev:250630": "slidev --open slides/20250630.md",
+    "dev:250530": "slidev --open slides/20250530.md"
   },
   "dependencies": {
     "@slidev/cli": "latest",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest",
-    "vue": "latest"
+    "@slidev/theme-seriph": "latest"
   }
 }
